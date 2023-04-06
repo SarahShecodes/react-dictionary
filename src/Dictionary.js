@@ -3,8 +3,7 @@ import Results from "./Results";
 import axios from "axios";
 import "./Dictionary.css";
 
-//.meanings[0].definitions[0].definition
-
+//14:19
 export default function Dictionary() {
   let [keyword, setKeyword] = useState("");
   let [results, setResults] = useState(null);
