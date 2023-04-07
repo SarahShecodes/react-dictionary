@@ -1,0 +1,10 @@
+.Meaning h3 {
+  text-transform: capitalize;
+  font-size: 32px;
+  line-height: 1.5;
+}
+.Meaning .definition {
+  font-weight: 600;
+  line-height: 1.5;
+  margin-top: 10px;
+}
