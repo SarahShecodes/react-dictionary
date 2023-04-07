@@ -1,5 +1,5 @@
 .App {
-  background-image: url("booksbg.jpg");
+  background-image: url("bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -8,7 +8,7 @@
   margin: 30px auto;
 }
 .App h1 {
-  color: white;
+  color: rgb(85, 83, 83);
   font-weight: 600;
   font-size: 68px;
 }
