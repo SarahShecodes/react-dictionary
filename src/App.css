@@ -3,18 +3,16 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  border-radius: 10px;
+
   width: auto;
-  margin: 30px auto;
+  margin: 0 auto;
 }
 .App h1 {
-  color: rgb(85, 83, 83);
+  color: rgb(88, 87, 87);
   font-weight: 600;
   font-size: 68px;
 }
-.App-header {
-  margin: 30px 0;
-}
+
 footer {
   color: white;
 }
